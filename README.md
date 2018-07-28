@@ -7,10 +7,10 @@ This game authoring environment was created by the following students of Duke Un
 # Developer Notes
 This utility is divided into four components:
 
-Game authoring environment: program of visual tools for placing, specifying, editing, and combining general game elements together to make a particular game
-Game engine: framework of general Java classes to support any kind of game within a specific game genre
-Game player: program that loads the game data and uses the game engine to run a particular game
-Game data: files, assets, preferences, and code that represent a particular game
+* Game authoring environment: program of visual tools for placing, specifying, editing, and combining general game elements together to make a particular game
+* Game engine: framework of general Java classes to support any kind of game within a specific game genre
+* Game player: program that loads the game data and uses the game engine to run a particular game
+* Game data: files, assets, preferences, and code that represent a particular game
 
 # Ownership
 
