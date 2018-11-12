@@ -12,9 +12,6 @@ This utility is divided into four components:
 * Game player: program that loads the game data and uses the game engine to run a particular game
 * Game data: files, assets, preferences, and code that represent a particular game
 
-# Ownership
-
-As an equal member in this team, I spent my time focusing on the development of the Game Engine.
 
 ## Video demonstrating what games you can make with this authoring environment
 [Link to Example Games](https://drive.google.com/file/d/16dupG6GmneUEuLYEHBFUgwfuNbuSZUqZ/view?usp=sharing)
